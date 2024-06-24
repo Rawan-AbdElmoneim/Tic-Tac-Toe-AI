@@ -21,7 +21,11 @@ The game interface provides visual feedback for:
 
 ## Screenshots
 - **AI Victory**
+  ![Screenshot 2024-06-24 232744](https://github.com/Rawan-AbdElmoneim/Tic-Tac-Toe-AI/assets/142115846/0bc27440-b021-442e-ab96-13b56b9eb434)
+
 - **Draw Game**
+  ![Screenshot 2024-06-24 232852](https://github.com/Rawan-AbdElmoneim/Tic-Tac-Toe-AI/assets/142115846/4919b1de-4a99-4d5f-82a1-0c92edb082d8)
+
 
 ## Installation and Setup
 
